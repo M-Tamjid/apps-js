@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+  font-size: 18px;
+}
+ul {
+  list-style: unset;
+  display: block;
+}
+li {
+  padding: 2px 0;
+}
